@@ -1,0 +1,15 @@
+{
+  "name": "five-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fiveApi.js",
+  "scripts": {
+  	"start": "node fiveApi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitai J. Perez <nitai.perez@gmail.com> (https://github.com/NitaiPerez)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
